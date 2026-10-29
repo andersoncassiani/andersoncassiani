@@ -27,7 +27,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🔭 Desarrollo **plataformas web y móviles** de punta a punta: desde el modelo de datos hasta el despliegue en producción.
-- 🧩 Me especializo en **backend con Laravel**, APIs REST e **integración con servicios de terceros** (pasarelas de pago, facturación electrónica, WhatsApp).
+- 🧩 Me especializo en **backend con Laravel, Django y FastAPI**, APIs REST e **integración con servicios de terceros** (pasarelas de pago, facturación electrónica, WhatsApp).
 - 🖥️ Administro **servidores Linux y Windows**, dominios, certificados SSL y **correo corporativo** (M365 / Google Workspace).
 - 📱 Construyo **PWA** con funcionamiento offline y publicación en Android.
 - 📚 Documento, capacito usuarios y escribo manuales técnicos: el software también tiene que entenderse.
