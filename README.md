@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Laravel+%C2%B7+Livewire+%C2%B7+Filament;APIs+REST+e+integraciones;Servidores+Linux+%C2%B7+Docker+%C2%B7+Nginx;Construyendo+myCatalogo.co+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Laravel+%C2%B7+Livewire+%C2%B7+Filament+%C2%B7+Django+%C2%B7+FastAPI;React+%C2%B7+Vue.js+%C2%B7+Tailwind+CSS;APIs+REST+e+integraciones;Servidores+Linux+%C2%B7+Docker+%C2%B7+Nginx;Construyendo+myCatalogo.co+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 **Lenguajes y frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,django,nodejs,express,vue,react,tailwind,bootstrap,html,css,wordpress&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,django,fastapi,nodejs,express,vue,react,tailwind,bootstrap,html,css,wordpress&perline=8" />
 </p>
 
 **Bases de datos**
